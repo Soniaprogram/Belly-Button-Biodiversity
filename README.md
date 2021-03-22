@@ -19,3 +19,9 @@ Initial webpage:
 
 Modified and reformatted:
 ![img5](https://github.com/Soniaprogram/Belly-Button-Biodiversity/blob/main/images/webpage.PNG)
+
+- Added background images
+- Added background image to jumbotron
+- Modified colour scheme
+- Modified texts
+- Modified layout
