@@ -26,3 +26,5 @@ Modified and reformatted:
 - Modified colour scheme
 - Modified texts
 - Modified layout
+
+The updated webpage can be accessed here: https://soniaprogram.github.io/Belly-Button-Biodiversity/
