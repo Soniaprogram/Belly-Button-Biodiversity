@@ -149,7 +149,7 @@ function buildCharts(sample) {
         domain: { x: [0,1], y: [0,1] },
         value: washingfreq,
         gauge: {
-          axis: {range: [null,10],tickwidth:1,ticktext: [0, 2, 4, 6, 8, 10]},
+          axis: {range: [null,10],tickwidth:1,tickvals: [0, 2, 4, 6, 8, 10]},
           bar: {color: "black"},
           steps: [
             {range: [0,2], color: "red"},
