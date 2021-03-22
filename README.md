@@ -19,3 +19,7 @@
 Initial webpage:
 
 ![img4](https://github.com/Soniaprogram/Belly-Button-Biodiversity/blob/main/images/del3.PNG)
+
+Modified and reformatted:
+
+![img5](https://github.com/Soniaprogram/Belly-Button-Biodiversity/blob/main/images/webpage.PNG)
