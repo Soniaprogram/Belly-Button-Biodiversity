@@ -12,4 +12,6 @@
 
 #### Deliverable 3: Create a Gauge Chart
 
+![img3](https://github.com/Soniaprogram/Belly-Button-Biodiversity/blob/main/images/del3gauge.PNG)
+
 #### Deliverable 4: Customize the Dashboard
