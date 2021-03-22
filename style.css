@@ -1,0 +1,12 @@
+body {
+    background-image: url('background.jfif'), url('background1.jpg'), url('background2.jpg');
+    background-position: left top, left bottom, right bottom;
+    background-repeat: repeat-x, repeat-y, repeat-y;
+    background-color: rgb(2, 2, 37);
+    }
+  
+  .jumbotron {
+    background-image: url("Bacteria.jpg");
+    background-size: 100% 100%;
+    text-align: center;
+    }
