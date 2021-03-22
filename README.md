@@ -8,6 +8,8 @@
 
 #### Deliverable 2: Create a Bubble Chart
 
+![img2](https://github.com/Soniaprogram/Belly-Button-Biodiversity/blob/main/images/del2chart.PNG)
+
 #### Deliverable 3: Create a Gauge Chart
 
 #### Deliverable 4: Customize the Dashboard
