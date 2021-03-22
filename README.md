@@ -1,7 +1,7 @@
 # Belly-Button-Biodiversity
 
 ## Purpose
-Using HTML, CSS, Javascript, Bootstrap, and Plotly to visualize the top 10 bacterial species found in the belly buttons of volunteers in a study.
+Using HTML, CSS, Javascript, Bootstrap, and Plotly to visualize the top 10 bacterial species found in the belly buttons of volunteers in a study. The dropdown menu on the left can be used to select a test subject. Their information will then be displayed below in the Demographic Info box. This will also update the webpage to show the top 10 bacterial species found in that test subject's belly button in the bar and bubble charts. The gauge chart will display the weekly washing frequency's value as a measure from 0-10 on the progress bar. 
 
 ### Deliverable 1: Create a Horizontal Bar Chart
 ![img](https://github.com/Soniaprogram/Belly-Button-Biodiversity/blob/main/images/Capturedel1.PNG)
