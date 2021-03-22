@@ -15,10 +15,8 @@ Using HTML, CSS, Javascript, Bootstrap, and Plotly to visualize the top 10 bacte
 ![img3](https://github.com/Soniaprogram/Belly-Button-Biodiversity/blob/main/images/gauge.PNG)
 
 ### Deliverable 4: Customize the Dashboard
-Initial webpage:
-![img4](https://github.com/Soniaprogram/Belly-Button-Biodiversity/blob/main/images/del3.PNG)
 
-Modified and reformatted:
+Modified and reformatted webpage:
 ![img5](https://github.com/Soniaprogram/Belly-Button-Biodiversity/blob/main/images/dashboard.PNG)
 
 - Added background images
