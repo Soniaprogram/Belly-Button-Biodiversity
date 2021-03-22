@@ -12,14 +12,14 @@ Using HTML, CSS, Javascript, Bootstrap, and Plotly to visualize the top 10 bacte
 
 
 ### Deliverable 3: Create a Gauge Chart
-![img3](https://github.com/Soniaprogram/Belly-Button-Biodiversity/blob/main/images/del3gauge.PNG)
+![img3](https://github.com/Soniaprogram/Belly-Button-Biodiversity/blob/main/images/gauge.PNG)
 
 ### Deliverable 4: Customize the Dashboard
 Initial webpage:
 ![img4](https://github.com/Soniaprogram/Belly-Button-Biodiversity/blob/main/images/del3.PNG)
 
 Modified and reformatted:
-![img5](https://github.com/Soniaprogram/Belly-Button-Biodiversity/blob/main/images/webpage.PNG)
+![img5](https://github.com/Soniaprogram/Belly-Button-Biodiversity/blob/main/images/dashboard.PNG)
 
 - Added background images
 - Added background image to jumbotron
